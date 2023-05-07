@@ -1,7 +1,6 @@
 # gradio-chat
 
 ---
-
 title: Chatgpt Gradio
 emoji: 👀
 colorFrom: yellow
