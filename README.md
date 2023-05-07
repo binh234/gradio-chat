@@ -1,5 +1,8 @@
+# gradio-chat
+
 ---
-title: Chatgpt Grad
+
+title: Chatgpt Gradio
 emoji: 👀
 colorFrom: yellow
 colorTo: indigo
@@ -10,4 +13,16 @@ pinned: false
 license: cc-by-nc-4.0
 ---
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+Simple chat application with OpenAI GPT and Gradio
+
+## Install libraries
+
+```bash
+pip install -r requirements.txt
+```
+
+## Run the application locally
+
+```bash
+gradio app.py
+```
