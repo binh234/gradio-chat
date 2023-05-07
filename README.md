@@ -1,5 +1,3 @@
-# gradio-chat
-
 ---
 title: Chatgpt Gradio
 emoji: 👀
@@ -11,6 +9,8 @@ app_file: app.py
 pinned: false
 license: cc-by-nc-4.0
 ---
+
+# gradio-chat
 
 Simple chat application with OpenAI GPT and Gradio
 
