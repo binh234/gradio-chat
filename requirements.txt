@@ -1,4 +1,3 @@
-csv
 gradio
 langchain
 openai
