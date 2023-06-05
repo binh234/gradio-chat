@@ -23,5 +23,5 @@ pip install -r requirements.txt
 ## Run the application locally
 
 ```bash
-gradio app.py
+gradio run app.py
 ```
